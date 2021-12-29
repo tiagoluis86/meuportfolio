@@ -5,28 +5,14 @@ background-color: aliceblue;
 }
 
 
-
-
-
-
 body header{
      
     font-family: Verdana;
     width: 960px;
     margin: 0 auto;
     text-align: center;
-    
-    
+       
 }
-
-
-
-body footer{
-    font-family: Verdana;
-    margin-top: 100px;
-
-}
-
 
 body .projetos{
           
@@ -40,6 +26,8 @@ body .projetos{
 	flex-direction: row;
     justify-content:space-evenly;
     margin-top: 50px;
+   
+    
     
 }
 
@@ -73,7 +61,7 @@ body .projetos{
 	flex-direction: column;
     justify-content:flex-start;
     margin-top: 50px;
-
+   
 }
 
 
@@ -86,3 +74,9 @@ body .projetos{
     
 
 }
+
+footer {
+    margin-top: 50px;
+}
+
+
