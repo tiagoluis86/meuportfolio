@@ -26,7 +26,7 @@ body .projetos{
 	flex-direction: row;
     justify-content:space-evenly;
     margin-top: 50px;
-   
+    margin: 0 auto;
     
     
 }
